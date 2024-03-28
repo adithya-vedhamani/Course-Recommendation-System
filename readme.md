@@ -2,6 +2,11 @@
 
 This is a course recommendation system based on TF-IDF Vectorization and Cosine Similarity. The system is deployed using Flask.
 
+## Contributors
+
+* Shreya R Srinivasan
+* Adithya Vedhamani
+
 ## Demo Videos and Images
 
 You can find demo videos and images in the "Samples" folder. These resources provide a visual demonstration of how the course recommendation system works.
